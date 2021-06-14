@@ -1,5 +1,5 @@
 # EPL_Data
-An exploratory data analysis on epl data from the year 2020 - 2021
+An exploratory data analysis on epl data from the year 2020 - 2021 using python libraries in jupyter notebook
 
 Questions to answer
 1) Find out which team has the most aggressive defenders (or players for that matter)
